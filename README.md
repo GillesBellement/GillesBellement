@@ -9,12 +9,6 @@
 [![Google](https://img.shields.io/badge/⭐_4.9%2F5_Google-FFB800?style=for-the-badge)](https://creatif-web.eu)
 [![Remote](https://img.shields.io/badge/🌍_Full_Remote-22C55E?style=for-the-badge)](#)
 
-</div>
-
----
-
-<div align="center">
-
 ### 💬 « Je transforme vos idées en produits digitaux qui convertissent. »
 
 </div>
@@ -87,12 +81,16 @@ Aujourd'hui je conçois et déploie des **plateformes SaaS complexes**, des **si
 ---
 
 ## 💼 Pourquoi travailler avec moi ?
-🎯  Vision business : je pense résultats avant de penser code
-⚡  Autonomie totale : de l'architecture au déploiement, je gère tout
-🔍  SEO intégré dès le départ : PageSpeed 100/100, Core Web Vitals
-🤖  IA & Automatisation : j'intègre les dernières technologies dans vos projets
-🌍  Disponible partout : Full Remote · France · Dubaï · International
-🛡️  Fiabilité : 4,9/5 Google · 100% satisfaction · Suivi illimité
+
+| | |
+|---|---|
+| 🎯 **Vision business** | Je pense résultats avant de penser code |
+| ⚡ **Autonomie totale** | De l'architecture au déploiement, je gère tout |
+| 🔍 **SEO natif** | PageSpeed 100/100, Core Web Vitals dès le départ |
+| 🤖 **IA & Automatisation** | J'intègre les dernières technologies dans vos projets |
+| 🌍 **Full Remote** | Disponible partout — France · Dubaï · International |
+| 🛡️ **Fiabilité prouvée** | 4,9/5 Google · 100% satisfaction · Suivi illimité |
+
 ---
 
 ## 📬 Travaillons ensemble
@@ -101,9 +99,15 @@ Aujourd'hui je conçois et déploie des **plateformes SaaS complexes**, des **si
 
 [![Visiter mon site](https://img.shields.io/badge/🌐_Visiter_mon_site-FFB800?style=for-the-badge&logoColor=black)](https://creatif-web.eu)
 [![M'envoyer un email](https://img.shields.io/badge/📧_M'écrire-FFB800?style=for-the-badge&logoColor=black)](mailto:contact@creatifboost.com)
+[![Appel stratégie](https://img.shields.io/badge/📞_Appel_offert_20_min-22C55E?style=for-the-badge&logoColor=white)](https://calendly.com/contact-creatifboost/google-my-business)
 
-**Réponse sous 24h · Créneau stratégie 20 min offert**
+<br>
 
-⭐ 4,9/5 Google · 🌍 France & Dubaï · ✅ 100% Satisfaction · 🔒 RGPD
+> 🚀 **Vous avez un projet web ou SaaS ?**
+> Parlons-en — réponse garantie sous 24h.
+
+<br>
+
+⭐ **4,9/5 Google** &nbsp;·&nbsp; 🌍 **France & Dubaï** &nbsp;·&nbsp; ✅ **100% Satisfaction** &nbsp;·&nbsp; 🔒 **RGPD**
 
 </div>
