@@ -20,6 +20,18 @@ Développeur web **Full-Stack autodidacte**, reconverti avec succès après plus
 
 ---
 
+## 📊 Chiffres Clés
+
+<div align="center">
+
+| 🌟 Note Google | 🚀 Projets livrés | ✅ Satisfaction | 🌍 Présence |
+|:-:|:-:|:-:|:-:|
+| **4,9 / 5** | **5 SaaS en ligne** | **100%** | **France & Dubaï** |
+
+</div>
+
+---
+
 ## 🛠️ Stack Technique
 
 **Frontend**
@@ -62,15 +74,16 @@ Développeur web **Full-Stack autodidacte**, reconverti avec succès après plus
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Ce que je fais
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GillesBellement&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFB800&icon_color=FFB800&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GillesBellement&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFB800&text_color=FFFFFF)
-
-</div>
+```
+🏢  Fondateur & Directeur — Agence Créatif-Web (PACA · Dubaï)
+🛠️  Développement full-stack : de la conception au déploiement
+🏗️  Architecture SaaS : multi-tenant, API REST, microservices
+🔍  SEO technique : PageSpeed 100/100 · Core Web Vitals
+🎨  Design UX/UI sur-mesure · Conversion optimisée
+🤖  Intégration IA · Automatisation · Cloud
+```
 
 ---
 
